@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/legeclo/static/css/main.073c9b0a.css",
-    "main.js": "/legeclo/static/js/main.16704792.js",
+    "main.js": "/legeclo/static/js/main.73137577.js",
     "static/js/787.34ec24c9.chunk.js": "/legeclo/static/js/787.34ec24c9.chunk.js",
     "static/media/logo.svg": "/legeclo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/legeclo/index.html",
     "main.073c9b0a.css.map": "/legeclo/static/css/main.073c9b0a.css.map",
-    "main.16704792.js.map": "/legeclo/static/js/main.16704792.js.map",
+    "main.73137577.js.map": "/legeclo/static/js/main.73137577.js.map",
     "787.34ec24c9.chunk.js.map": "/legeclo/static/js/787.34ec24c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.16704792.js"
+    "static/js/main.73137577.js"
   ]
 }
