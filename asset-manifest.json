@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/legeclo/static/css/main.e6c13ad2.css",
-    "main.js": "/legeclo/static/js/main.5df11ca6.js",
+    "main.js": "/legeclo/static/js/main.ed9322a5.js",
     "static/js/787.34ec24c9.chunk.js": "/legeclo/static/js/787.34ec24c9.chunk.js",
     "index.html": "/legeclo/index.html",
     "main.e6c13ad2.css.map": "/legeclo/static/css/main.e6c13ad2.css.map",
-    "main.5df11ca6.js.map": "/legeclo/static/js/main.5df11ca6.js.map",
+    "main.ed9322a5.js.map": "/legeclo/static/js/main.ed9322a5.js.map",
     "787.34ec24c9.chunk.js.map": "/legeclo/static/js/787.34ec24c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.5df11ca6.js"
+    "static/js/main.ed9322a5.js"
   ]
 }
